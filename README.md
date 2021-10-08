@@ -4,17 +4,17 @@
 The purpose of this election audit is to determine the winner of a local Colorado election based on the vote count. 
 
 ## Election-Audit Results:
-•	Total votes casted: 369,711
-•	County vote count:
+*	Total votes casted: 369,711
+*	County vote count:
 o	Jefferson County: 10.5% (38,855)
 o	Denver County: 82.8% (306,055)
 o	Arapahoe County: 6.7% (24,801)
-•	Largest county turnout: Denver County
-•	Candidate vote count:
+*	Largest county turnout: Denver County
+*	Candidate vote count:
 o	Charles Casper Stockham: 23.0% (85,213)
 o	Diana DeGette: 73.8% (272,892)
 o	Raymon Anthony Doane: 3.1% (11,606)
-•	Election Winner: 
+*	Election Winner: 
 o	Diana DeGette
 o	272,892 votes
 o	73.8% of the total vote
