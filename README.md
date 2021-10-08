@@ -6,9 +6,9 @@ The purpose of this election audit is to determine the winner of a local Colorad
 ## Election-Audit Results:
 *	Total votes casted: 369,711
 *	County vote count:
-  * Jefferson County: 10.5% (38,855)
-  * Denver County: 82.8% (306,055)
-  *Arapahoe County: 6.7% (24,801)
+  - Jefferson County: 10.5% (38,855)
+  - Denver County: 82.8% (306,055)
+  - Arapahoe County: 6.7% (24,801)
 *	Largest county turnout: Denver County
 *	Candidate vote count:
   * Charles Casper Stockham: 23.0% (85,213)
